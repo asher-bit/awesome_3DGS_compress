@@ -1,12 +1,7 @@
-# awesome_3DGS_compress
+# awesome_3DGS_Compression
 
 
 
-### [EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS](https://arxiv.org/abs/2312.04564)
-
-
-
-## Compression:
 ## 2024:
 ### 1. Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis 
 **Authors**: Simon Niedermayr, Josef Stumpfegger, Rüdiger Westermann 
@@ -68,3 +63,4 @@ Recently, 3D Gaussian splatting (3D-GS) has gained popularity in novel-view scen
 
 
   [📄 Paper](https://arxiv.org/pdf/2312.04564.pdf) | [🌐 Project Page](https://fraunhoferhhi.github.io/Self-Organizing-Gaussians/) | [💻 Code ](https://github.com/Sharath-girish/efficientgaussian) 
+
